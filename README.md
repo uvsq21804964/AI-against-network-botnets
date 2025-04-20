@@ -10,6 +10,7 @@ The code is designed to be modular and easy to understand, making it suitable fo
 
 The project includes :
 
+- articles and a course that provide background information on the project and its context ;
 - a Jupyter notebook that demonstrates the algorithm's functionality ;
 - a Python script that automates the execution of the notebook for multiple datasets ;
 - a set of datasets that can be used to test the algorithm ;
