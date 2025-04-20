@@ -1,0 +1,13 @@
+Train Dataset Shape: (1239369, 15)
+Test Dataset Shape: (0, 15)
+-------------------------
+Test Dataset:
+Empty DataFrame
+Columns: [StartTime, Dur, Proto, SrcAddr, Sport, Dir, DstAddr, Dport, State, sTos, dTos, TotPkts, TotBytes, SrcBytes, Label]
+Index: []
+-------------------------
+
+
+Aucun faux positif d�tect� - pas de comparaison possible.
+TPR: 0.0000, FPR: 0.0000, Precision: 0.0000, Recall: 0.0000, F1 Score: 0.0000Train Dataset Shape: (1239369, 15)
+
